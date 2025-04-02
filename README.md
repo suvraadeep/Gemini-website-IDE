@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/9c05c159-75b2-4a46-8b63-a925212de229)
 
 
-Live link: https://huggingface.co/spaces/suvradeepp/Gemini-Website-IDE
+Live link: https://huggingface.co/spaces/suvradeepp/Vibe-Coder-WebD
 
 **Gemini Website IDE** is a lightweight, AI-powered web builder that enables users to create websites through natural language prompts. Built using **Google Gemini 2.5 Pro**, **Streamlit**, and **Python**, the IDE allows users to generate complete HTML, CSS, JavaScript, and React files effortlessly. This project demonstrates the power of large language models in spinning up functional prototypes similar to no-code platforms like Bolt or Lovable.
 
